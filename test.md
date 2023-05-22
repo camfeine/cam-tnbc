@@ -1,4 +1,4 @@
-** Some markdown ** marked up 
+**Some markdown** marked up 
  * oh
  * yes
   * indeed
